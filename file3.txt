@@ -1,1 +1,5 @@
 line satu, pembuatan file3.txt
+line dua, pembuatan file3.txt
+line tiga, pembuatan file3.txt
+line empat, pembuatan file3.txt
+line lima, pembuatan file3.txt
