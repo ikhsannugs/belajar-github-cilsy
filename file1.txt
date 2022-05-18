@@ -1,1 +1,2 @@
 line satu, pembuatan file1.txt
+line dua, menambahkan line 2 di file1.txt
