@@ -1,0 +1,1 @@
+line satu, pembuatan file1.txt
