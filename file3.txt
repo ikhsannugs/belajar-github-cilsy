@@ -3,3 +3,4 @@ line dua, pembuatan file3.txt
 line tiga, pembuatan file3.txt
 line empat, pembuatan file3.txt
 line lima, pembuatan file3.txt
+penambahan feature 2 di file3.txt
