@@ -1,1 +1,2 @@
 line satu, pembuatan file2.txt
+penambahan fitur 2 dari branch feature/2
